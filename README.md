@@ -1,0 +1,1 @@
+The database was created to show editors as well as reviewers the methods to be demonstrated in the manuscript as well as the processing and authenticity of the data. We regret that we do not have more than 17,000 textual data available, as this would require a deeper co-operation with your journal.
